@@ -1,0 +1,57 @@
+[
+    {
+        "ID": 0,
+        "Question": "What is Windows?",
+        "Answer": " \nExamples of Operating Systems are Windows, Linux, Mac OS, etc"
+    },
+    {
+        "ID": 1,
+        "Question": "What is Linux?",
+        "Answer": " \nExamples of Operating Systems are Windows, Linux, Mac OS, etc"
+    },
+    {
+        "ID": 2,
+        "Question": "What is Mac OS?",
+        "Answer": " \nExamples of Operating Systems are Windows, Linux, Mac OS, etc"
+    },
+    {
+        "ID": 0,
+        "Question": "What is The Operating System?",
+        "Answer": " \nThe Operating System provides a user with an interface that makes any application attractive and user-friendly"
+    },
+    {
+        "ID": 0,
+        "Question": "What is CPU?",
+        "Answer": " \nFunctions of the Operating System: Resource Management: The operating system manages and allocates memory, CPU time, and other hardware resources among the various programs and processes running on the computer"
+    },
+    {
+        "ID": 0,
+        "Question": "What is Graphical User Interface?",
+        "Answer": " This can be a Graphical User Interface (GUI), a Command-Line Interface (CLI), or a combination of both"
+    },
+    {
+        "ID": 1,
+        "Question": "What is GUI?",
+        "Answer": " This can be a Graphical User Interface (GUI), a Command-Line Interface (CLI), or a combination of both"
+    },
+    {
+        "ID": 2,
+        "Question": "What is Command-Line Interface?",
+        "Answer": " This can be a Graphical User Interface (GUI), a Command-Line Interface (CLI), or a combination of both"
+    },
+    {
+        "ID": 3,
+        "Question": "What is CLI?",
+        "Answer": " This can be a Graphical User Interface (GUI), a Command-Line Interface (CLI), or a combination of both"
+    },
+    {
+        "ID": 0,
+        "Question": "What is Backup and Recovery:?",
+        "Answer": " \nBackup and Recovery: The operating system provides mechanisms for backing up data and recovering it in case of system failures, errors, or disasters"
+    },
+    {
+        "ID": 0,
+        "Question": "What is Performance Monitoring: The operating?",
+        "Answer": " \nPerformance Monitoring: The operating system provides tools for monitoring and optimizing system performance, including identifying bottlenecks, optimizing resource usage, and analyzing system logs and metrics"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 1,
+        "Question": "What is the abbreviation for an operating system?",
+        "answer": "Operating systems"
+    },
+    {
+        "ID": 2,
+        "Question": "What does 'operational system' mean?",
+        "answer": "Operating system"
+    },
+    {
+        "ID": 3,
+        "Question": "What can enable multiple operating systems to run on a single physical machine?",
+        "answer": "Multiple operating systems"
+    },
+    {
+        "ID": 4,
+        "Question": "What is the name of the communication channel between system hardware and system software?",
+        "answer": "System software"
+    },
+    {
+        "ID": 5,
+        "Question": "The Operating System is responsible for organizing and managing what?",
+        "answer": "File system"
+    }
+]

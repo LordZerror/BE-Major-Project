@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Category of Operating System (OS) based on its primary purpose",
+            "difficulty": 0.25,
+            "answer": "System Software"
+        },
+        {
+            "id": 2,
+            "question": "OS acts as an intermediary between software and computer component",
+            "difficulty": 0.5,
+            "answer": "Hardware"
+        },
+        {
+            "id": 3,
+            "question": "Role of OS in managing system resources",
+            "difficulty": 0.75,
+            "answer": "Overall Management"
+        },
+        {
+            "id": 4,
+            "question": "Set of specialized programs comprising OS",
+            "difficulty": 1.0,
+            "answer": "Integrated Package"
+        },
+        {
+            "id": 5,
+            "question": "Task of OS aside from application software",
+            "difficulty": 1.25,
+            "answer": "System Software Control"
+        },
+        {
+            "id": 6,
+            "question": "Examples of established Operating Systems",
+            "difficulty": 1.5,
+            "answer": "Windows, Linux, Mac OS"
+        },
+        {
+            "id": 7,
+            "question": "Collection of software essential for computer function",
+            "difficulty": 1.75,
+            "answer": "OS (Operating System)"
+        },
+        {
+            "id": 8,
+            "question": "Primary software type in a computer system",
+            "difficulty": 2.0,
+            "answer": "System Software"
+        },
+        {
+            "id": 9,
+            "question": "Contribution of OS to computer improvement",
+            "difficulty": 2.25,
+            "answer": "Both Hardware and Software Enhancement"
+        },
+        {
+            "id": 10,
+            "question": "Effect of OS absence on application accessibility",
+            "difficulty": 2.5,
+            "answer": "User-Unfriendliness"
+        },
+        {
+            "id": 11,
+            "question": "OS component responsible for hardware interaction",
+            "difficulty": 2.75,
+            "answer": "Device Drivers"
+        },
+        {
+            "id": 12,
+            "question": "Requirement for any system application",
+            "difficulty": 3.0,
+            "answer": "Operating System"
+        }
+    ]
+}

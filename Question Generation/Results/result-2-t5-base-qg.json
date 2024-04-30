@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 1,
+        "Question": "What is the most common operating system?",
+        "answer": "Windows"
+    },
+    {
+        "ID": 2,
+        "Question": "What is the device management?",
+        "answer": "Device Management"
+    },
+    {
+        "ID": 3,
+        "Question": "What is the most common operating system?",
+        "answer": "Mac OS"
+    },
+    {
+        "ID": 4,
+        "Question": "What is the primary memory of the computer?",
+        "answer": "Memory Management"
+    },
+    {
+        "ID": 5,
+        "Question": "What is the function of the operating system?",
+        "answer": "CPU"
+    },
+    {
+        "ID": 6,
+        "Question": "What is a GUI?",
+        "answer": "Graphical User Interface"
+    },
+    {
+        "ID": 7,
+        "Question": "What is the role of the operating system in process management?",
+        "answer": "Process Management"
+    },
+    {
+        "ID": 8,
+        "Question": "What can be a GUI?",
+        "answer": "Command-Line Interface"
+    },
+    {
+        "ID": 9,
+        "Question": "Can be a GUI, a Command Line Interface (CLI), or a combination?",
+        "answer": "GUI"
+    },
+    {
+        "ID": 10,
+        "Question": "What is the operating system?",
+        "answer": "The Operating System"
+    }
+]

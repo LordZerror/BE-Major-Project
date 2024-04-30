@@ -1,0 +1,82 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "question": "What is the primary function of an Operating System?",
+            "difficulty": "0.5",
+            "answer": "Resource Management"
+        },
+        {
+            "id": "2",
+            "question": "What is process management responsible for in an Operating System?",
+            "difficulty": "1.0",
+            "answer": "Starting, stopping, and managing processes and programs"
+        },
+        {
+            "id": "4",
+            "question": "What is an example of a system call that enables applications to interact with the operating system?",
+            "difficulty": "2.0",
+            "answer": "open()"
+        },
+        {
+            "id": "5",
+            "question": "Which scheduling algorithm would be most effective in reducing fragmentation?",
+            "difficulty": "2.5",
+            "answer": "SCDU"
+        },
+        {
+            "id": "6",
+            "question": "What is the role of device management in an Operating System?",
+            "difficulty": "1.5",
+            "answer": "Managing input/output devices such as printers, keyboards, mice, and displays"
+        },
+        {
+            "id": "7",
+            "question": "What is the role of the user interface in an Operating System?",
+            "difficulty": "1.0",
+            "answer": "Graphical User Interface (GUI), Command-Line Interface (CLI), or a combination of both"
+        },
+        {
+            "id": "8",
+            "question": "What is the role of job accounting in an Operating System?",
+            "difficulty": "2.0",
+            "answer": "Keeps track of time and resources used by various jobs or users"
+        },
+        {
+            "id": "9",
+            "question": "What is the role of networking in an Operating System?",
+            "difficulty": "2.0",
+            "answer": "Establishing and managing network connections, handling network protocols, and sharing resources such as printers and files over a network"
+        },
+        {
+            "id": "10",
+            "question": "What is the role of error-detecting aids in an Operating System?",
+            "difficulty": "2.5",
+            "answer": "Production of dumps, traces, error messages, and other debugging and error-detecting methods"
+        },
+        {
+            "id": "11",
+            "question": "What is the role of virtualization in an Operating System?",
+            "difficulty": "2.5",
+            "answer": "Allows multiple operating systems or applications to run on a single physical machine, enabling efficient use of resources and flexibility in managing workloads"
+        },
+        {
+            "id": "12",
+            "question": "What is the role of performance monitoring in an Operating System?",
+            "difficulty": "2.0",
+            "answer": "Monitoring and optimizing system performance, including identifying bottlenecks, optimizing resource usage, and analyzing system logs and metrics"
+        },
+        {
+            "id": "13",
+            "question": "What is the role of time-sharing in an Operating System?",
+            "difficulty": "2.5",
+            "answer": "Enables multiple users to share a computer system and its resources simultaneously by providing time-sharing mechanisms that allocate resources fairly and efficiently"
+        },
+        {
+            "id": "14",
+            "question": "What is the role of system calls in an Operating System?",
+            "difficulty": "2.0",
+            "answer": "Provides a set of system calls that enable applications to interact with the operating system and access its resources. System calls provide a standardized interface between applications and the operating system, enabling portability and compatibility across different hardware and software platforms."
+        }
+    ]
+}

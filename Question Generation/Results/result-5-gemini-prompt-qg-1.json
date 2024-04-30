@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Operating System?",
+    "difficulty": 0.25,
+    "answer": "System software"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary responsibility of an operating system?",
+    "difficulty": 0.75,
+    "answer": "Managing computer resources"
+  },
+  {
+    "id": 3,
+    "question": "What is the function of an Operating System?",
+    "difficulty": 1.25,
+    "answer": "Interface between software and hardware"
+  },
+  {
+    "id": 4,
+    "question": "Define an Operating System.",
+    "difficulty": 1.75,
+    "answer": "Integrated program set managing computer operations"
+  },
+  {
+    "id": 5,
+    "question": " What is the purpose of device drivers in an Operating System?",
+    "difficulty": 2.25,
+    "answer": "Making OS services accessible to hardware"
+  },
+  {
+    "id": 6,
+    "question": "What is the role of the Operating System in user-friendly applications?",
+    "difficulty": 2.75,
+    "answer": "Provides an attractive and user-friendly interface"
+  }
+]

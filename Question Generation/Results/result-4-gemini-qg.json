@@ -1,0 +1,9 @@
+[
+    {
+        "id": "OS_001",
+        "question": "Imagine you're a system administrator tasked with optimizing disk performance. You suspect fragmentation is an issue. Which scheduling algorithm, based on its properties, would be LEAST effective in reducing fragmentation?",
+        "answer": "FCFS",
+        "role": "Professor",
+        "analogy": "Imagine a library with a long queue and books scattered all over the shelves. What kind of librarian, based on their approach, would struggle the most to find and deliver books quickly?"
+    }
+]

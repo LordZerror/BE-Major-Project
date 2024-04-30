@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of an Operating System?",
+    "difficulty": "Easy",
+    "answer": "Resource Management"
+  },
+  {
+    "id": 2,
+    "question": "Name a function of an Operating System.",
+    "difficulty": "Medium",
+    "answer": "File Management"
+  },
+  {
+    "id": 3,
+    "question": "Which Operating System is well-known for its user-friendly GUI?",
+    "difficulty": "Difficult",
+    "answer": "Windows"
+  }
+]

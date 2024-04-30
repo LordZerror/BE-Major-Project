@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "Question": "What is one of the most important parts of a computer?",
+        "answer": "Operating system"
+    },
+    {
+        "ID": 2,
+        "Question": "The operating system is one of the most important parts of what?",
+        "answer": "System"
+    },
+    {
+        "ID": 3,
+        "Question": "An operating system is designed to manage the overall resources and operations of what?",
+        "answer": "Computer"
+    },
+    {
+        "ID": 4,
+        "Question": "An operating system can enable efficient use of what?",
+        "answer": "Resources"
+    },
+    {
+        "ID": 5,
+        "Question": "What does the operating system communicate with?",
+        "answer": "System software"
+    },
+    {
+        "ID": 6,
+        "Question": "An operating system provides a secure environment for who?",
+        "answer": "User"
+    }
+]
